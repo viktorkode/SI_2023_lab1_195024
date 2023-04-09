@@ -1,0 +1,37 @@
+viktormac@Viktors-MacBook-Pro-16 SI_2023_lab1_195024 % git log
+commit b1da81bc505f9e7424716693d4e7d1c5fd61665b (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: viktorkode <69812060+viktorkode@users.noreply.github.com>
+Date:   Sun Apr 9 21:40:31 2023 +0300
+
+    Fix method sumEvenNumbers
+
+commit 2e980cf38674b4595d42b908516234a238057453
+Merge: 13249d3 552743e
+Author: viktorkode <69812060+viktorkode@users.noreply.github.com>
+Date:   Sun Apr 9 22:05:52 2023 +0300
+
+    Merge conflict fix
+
+commit 552743e24313e82685c8a8800b070365757eb94e (origin/bug2, bug2)
+Author: viktorkode <69812060+viktorkode@users.noreply.github.com>
+Date:   Sun Apr 9 21:33:55 2023 +0300
+
+    Fix wrong condition in filterOddNumbers
+
+commit 13249d3749f07cf9e0e8d0eaca64168815413f56 (origin/bug1, bug1)
+Author: viktorkode <69812060+viktorkode@users.noreply.github.com>
+Date:   Sun Apr 9 21:24:34 2023 +0300
+
+    Fix wrong loop for reading
+
+commit f042251d6611db4c62ba7cb17f3d24b078be8050
+Author: viktorkode <69812060+viktorkode@users.noreply.github.com>
+Date:   Mon Apr 3 21:48:09 2023 +0300
+
+    Add java class
+
+commit cba4254f403110ac365ce09a595759cacca4c442
+Author: viktorkode <69812060+viktorkode@users.noreply.github.com>
+Date:   Mon Apr 3 21:46:28 2023 +0300
+
+    Initial commit
